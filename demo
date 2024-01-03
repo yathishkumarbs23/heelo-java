@@ -1,0 +1,14 @@
+         package yathi;
+         public class basic1 
+ {
+ void show()
+  		 {
+ System.out.println("welcome to java");
+ System.out.println("the maximum number is: "+Math.max(9, 7));
+ }
+ public static void main(String[] args) 
+ {
+ basic1 obj=new basic1();
+ obj.show();
+ 	 }
+ }
